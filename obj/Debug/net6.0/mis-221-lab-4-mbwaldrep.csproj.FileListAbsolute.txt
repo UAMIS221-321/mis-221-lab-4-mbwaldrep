@@ -1,0 +1,15 @@
+/Users/brycewaldrep/Desktop/source/repos/mis-221-lab-4-mbwaldrep/obj/Debug/net6.0/mis-221-lab-4-mbwaldrep.csproj.AssemblyReference.cache
+/Users/brycewaldrep/Desktop/source/repos/mis-221-lab-4-mbwaldrep/obj/Debug/net6.0/mis-221-lab-4-mbwaldrep.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brycewaldrep/Desktop/source/repos/mis-221-lab-4-mbwaldrep/obj/Debug/net6.0/mis-221-lab-4-mbwaldrep.AssemblyInfoInputs.cache
+/Users/brycewaldrep/Desktop/source/repos/mis-221-lab-4-mbwaldrep/obj/Debug/net6.0/mis-221-lab-4-mbwaldrep.AssemblyInfo.cs
+/Users/brycewaldrep/Desktop/source/repos/mis-221-lab-4-mbwaldrep/obj/Debug/net6.0/mis-221-lab-4-mbwaldrep.csproj.CoreCompileInputs.cache
+/Users/brycewaldrep/Desktop/source/repos/mis-221-lab-4-mbwaldrep/bin/Debug/net6.0/mis-221-lab-4-mbwaldrep
+/Users/brycewaldrep/Desktop/source/repos/mis-221-lab-4-mbwaldrep/bin/Debug/net6.0/mis-221-lab-4-mbwaldrep.deps.json
+/Users/brycewaldrep/Desktop/source/repos/mis-221-lab-4-mbwaldrep/bin/Debug/net6.0/mis-221-lab-4-mbwaldrep.runtimeconfig.json
+/Users/brycewaldrep/Desktop/source/repos/mis-221-lab-4-mbwaldrep/bin/Debug/net6.0/mis-221-lab-4-mbwaldrep.dll
+/Users/brycewaldrep/Desktop/source/repos/mis-221-lab-4-mbwaldrep/bin/Debug/net6.0/mis-221-lab-4-mbwaldrep.pdb
+/Users/brycewaldrep/Desktop/source/repos/mis-221-lab-4-mbwaldrep/obj/Debug/net6.0/mis-221-lab-4-mbwaldrep.dll
+/Users/brycewaldrep/Desktop/source/repos/mis-221-lab-4-mbwaldrep/obj/Debug/net6.0/refint/mis-221-lab-4-mbwaldrep.dll
+/Users/brycewaldrep/Desktop/source/repos/mis-221-lab-4-mbwaldrep/obj/Debug/net6.0/mis-221-lab-4-mbwaldrep.pdb
+/Users/brycewaldrep/Desktop/source/repos/mis-221-lab-4-mbwaldrep/obj/Debug/net6.0/mis-221-lab-4-mbwaldrep.genruntimeconfig.cache
+/Users/brycewaldrep/Desktop/source/repos/mis-221-lab-4-mbwaldrep/obj/Debug/net6.0/ref/mis-221-lab-4-mbwaldrep.dll
